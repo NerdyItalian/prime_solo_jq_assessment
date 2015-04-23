@@ -1,0 +1,52 @@
+html {
+	background-color: rgba(136, 146, 157, 0.5);
+}
+
+body {
+	text-align: center;
+    color: rgba(38, 39, 50, 0.9);
+    font-family: monospace, Helvetica, Arial, sans-serif;
+    font-size: 30px;
+}
+
+#generateButton {
+	margin: 10px auto 10px auto;
+	height: 30px;
+	width: 100px;
+	border-radius: 15px;
+	font-family: monospace;
+	font-size: 20px;
+	background-color: rgba(106, 177, 174, 0.9);
+}
+
+#generateButton:hover {
+	background-color: rgba(106, 112, 174, 0.9);
+}
+
+#btnRemove {
+	margin: 10px auto 10px auto;
+	height: 30px;
+	width: 100px;
+	border-radius: 15px;
+	font-family: monospace;
+	font-size: 20px;
+	background-color: rgba(133, 40, 115, 0.9);
+}
+
+#btnRemove:hover {
+	background-color: rgba(133, 197, 115, 0.9);
+}
+
+#changeColor {
+	margin: 10px auto 10px auto;
+	height: 30px;
+	width: 100px;
+	border-radius: 15px;
+	font-family: monospace;
+	font-size: 20px;
+	background-color: rgba(198, 90, 166, 0.9);
+}
+
+#changeColor:hover {
+	background-color: rgba(44, 84, 181, 0.9);
+}
